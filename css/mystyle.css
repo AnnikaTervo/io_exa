@@ -1,8 +1,20 @@
+html,
+	body {
+	  height: 100%;
+	  width: 100%;
+	}
+
 #header{
     background-color: aqua;
 }
 #menu {
+    
+    float left
+    width 150px
+    height 100%
+    font size 20px
     background-color: blueviolet;
+    list-style: none
 }
 #content{
     background-color: crimson;
